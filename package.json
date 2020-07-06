@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Learning typeScript basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prosperevergreen/TypeScript.git"
+  },
+  "author": "Prosper Evergreen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prosperevergreen/TypeScript/issues"
+  },
+  "homepage": "https://github.com/prosperevergreen/TypeScript#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
