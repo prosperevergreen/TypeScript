@@ -1,5 +1,3 @@
-export {};
-
 class Greeting {
   greet(): void {
     console.log("Hello world!!!");
